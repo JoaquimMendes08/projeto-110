@@ -1,0 +1,4 @@
+0 pessoa
+1 pedra
+2 tesoura
+3 papel
